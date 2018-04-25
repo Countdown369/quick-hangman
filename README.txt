@@ -1,0 +1,1 @@
+Made a few edits to an assignments for school and made this Hangman game, changeable in difficult via number of moves.
